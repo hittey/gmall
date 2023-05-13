@@ -10,7 +10,7 @@
 
   <groupId>com.hitty.gmall</groupId>
   <artifactId>gmall-common-util</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>gmall-common-util</name>
@@ -75,6 +75,12 @@
         <artifactId>activation</artifactId>
         <version>1.1.1</version>
     </dependency>
+
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <scope>test</scope>
+      </dependency>
 
     <dependency>
         <groupId>com.101tec</groupId>
